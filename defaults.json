@@ -1,0 +1,12 @@
+{
+  "defaults": {
+    "access": "FullAccess",
+    "access_to": "Everyone",
+    "UserName": "justin",
+    "Password": "justin123",
+    "share_path": "D:\\Games",
+    "share_name": "MyShare",
+    "comment1": "username,pwd used only when access_to is default",
+    "comment2": "access_to can be Everyone or default or ask_everytime"
+  }
+}
