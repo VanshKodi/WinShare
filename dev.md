@@ -22,3 +22,6 @@ After first trial on new  fresh windows machine it was found that it shares fold
 As of now the program works well on androids to check for windows and on isolated platforms is the next step
 
 ### If everything orks next step would be to get it add help section
+
+Project works absolutly fine , next step would be to add things like type win+R then ip 
+and for android download cx explorer or similar apps and write password in a help section the help section also mentions things like how to change password username if needed
