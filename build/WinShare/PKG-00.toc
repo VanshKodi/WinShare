@@ -1,0 +1,159 @@
+('D:\\Project\\WinShare\\build\\WinShare\\WinShare.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz', 'D:\\Project\\WinShare\\build\\WinShare\\PYZ-00.pyz', 'PYZ'),
+  ('struct',
+   'D:\\Project\\WinShare\\build\\WinShare\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Project\\WinShare\\build\\WinShare\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Project\\WinShare\\build\\WinShare\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Project\\WinShare\\build\\WinShare\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Project\\WinShare\\build\\WinShare\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('main', 'D:\\Project\\WinShare\\DEV\\main.py', 'PYSOURCE'),
+  ('python310.dll',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\python310.dll',
+   'BINARY'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('prompt_toolkit-3.0.52.dist-info\\top_level.txt',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\prompt_toolkit-3.0.52.dist-info\\top_level.txt',
+   'DATA'),
+  ('prompt_toolkit-3.0.52.dist-info\\licenses\\AUTHORS.rst',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\prompt_toolkit-3.0.52.dist-info\\licenses\\AUTHORS.rst',
+   'DATA'),
+  ('prompt_toolkit-3.0.52.dist-info\\INSTALLER',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\prompt_toolkit-3.0.52.dist-info\\INSTALLER',
+   'DATA'),
+  ('prompt_toolkit-3.0.52.dist-info\\RECORD',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\prompt_toolkit-3.0.52.dist-info\\RECORD',
+   'DATA'),
+  ('prompt_toolkit-3.0.52.dist-info\\WHEEL',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\prompt_toolkit-3.0.52.dist-info\\WHEEL',
+   'DATA'),
+  ('prompt_toolkit-3.0.52.dist-info\\METADATA',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\prompt_toolkit-3.0.52.dist-info\\METADATA',
+   'DATA'),
+  ('prompt_toolkit-3.0.52.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\Jamin '
+   'Carter\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\prompt_toolkit-3.0.52.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('base_library.zip',
+   'D:\\Project\\WinShare\\build\\WinShare\\base_library.zip',
+   'DATA')],
+ 'python310.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

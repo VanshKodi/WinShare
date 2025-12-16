@@ -1,0 +1,7 @@
+{
+    "Name": "WinShare",
+    "version": "0.2.0",
+    "author": "Vansh Kodinariya",
+    "description": "A Python application to manage Windows shares with admin privileges.",
+    "main": "main.py"
+}
