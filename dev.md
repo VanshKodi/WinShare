@@ -17,3 +17,8 @@ After first trial on new  fresh windows machine it was found that it shares fold
     -icacls "C:\Path\To\ppts" /inheritance:e
         this means that after sharing if shared folder is changed on host then new files also inherit sharing properties
         ideally this should be run b4 grant winshare command
+
+## Update
+As of now the program works well on androids to check for windows and on isolated platforms is the next step
+
+### If everything orks next step would be to get it add help section
